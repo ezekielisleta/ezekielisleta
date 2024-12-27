@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sal!
-- - First year college student under the Bachelor of Multimedia Arts program.
-- 👀 I’m interested in Programming, Graphic Design, Art, Animation, Broadcasting, Transformers, almost all things Fictional Robots.
-- 🌱 Busy with college and thus I have no time to practice programming
+- 🎓 First year college student under the Bachelor of Multimedia Arts program.
+- 👀 I’m interested in UI/UX Design, Graphic Design, Art, Animation, Broadcasting, Transformers, almost all things Fictional Robots, and maybe Mantises too!
+- 🌱 Busy with college and thus I have no time to practice programming.
 - 📫 isleponto@tutanota.com
 - 😄 Pronouns: He/Him or They/Them
