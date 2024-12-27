@@ -1,10 +1,6 @@
-- 👋 Hi, I’m Ezekiel A. Isleta.
+- 👋 Hi, I’m Sal!
+- - First year college student under the Bachelor of Multimedia Arts program.
 - 👀 I’m interested in Programming, Graphic Design, Art, Animation, Broadcasting, Transformers, almost all things Fictional Robots.
-- 🌱 I’m currently learning Programming, Animation, Graphic Design, and Art
-- 📫 islezekiel@protonmail.com
+- 🌱 Busy with college and thus I have no time to practice programming
+- 📫 isleponto@tutanota.com
 - 😄 Pronouns: He/Him or They/Them
-
-<!---
-ezekielisleta/ezekielisleta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
